@@ -11,7 +11,7 @@ This repository contains the full analysis pipeline behind the paper: a machine-
 |------|-------------|
 | `group_project.ipynb` | The complete analysis notebook: data cleaning, proxy-label construction, model training, and evaluation. Runs top to bottom. |
 | `group_project.pdf` | A rendered PDF of the executed notebook, with all outputs and figures, for reading without a Jupyter environment. |
-| `ahs_variable_reference.[md/csv/pdf]` | Reference table decoding the AHS variables used, their meanings, and their role in the pipeline (feature vs. label component). Linked from the paper's Data section. |
+| `reference_table.csv` | Reference table with details of papers that were cited. Unrelated to the notebook directly |
 
 ## Dataset
 
